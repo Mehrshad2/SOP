@@ -1,0 +1,39 @@
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    position: fixed;
+    direction: rtl;
+    width:100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    background: #a3a544;
+    font-size: larger;
+    font-family:Calibri ;
+}
+.up {
+    display: block;
+    text-align: center;
+    margin: 50px 0px;
+}
+.title{
+    display: block;
+    text-align: center;
+    margin: 50px 0px;
+}
+
+.center {
+    display: block;
+    margin: 20px 300px;
+    text-align: center;
+    font-size: 1.50rem;
+
+}
+.end {
+    display: block;
+    margin: 50px 0px;
+    text-align: center;
+}
